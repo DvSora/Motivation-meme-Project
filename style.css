@@ -1,0 +1,32 @@
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+body {
+    background-color:Black;
+}
+h1 {
+    color:white;
+}
+
+.poster {
+   width:50%;
+   margin-left:25%;
+   font-family: "libre Baskerville", serif;
+text-align: center;
+
+}
+.m-img {
+    border:solid White 5px;
+    width:100%
+}
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+  }
+
+ 
